@@ -1,0 +1,17 @@
+[user]
+name = Shikanime Deva
+email = deva.shikanime@protonmail.com
+[core]
+editor = nvim
+excludesfile = /home/devas/.gitignore
+[credential]
+helper = manager
+[pull]
+rebase = true
+ff = only
+[rebase]
+autoStash = true
+[alias]
+adog = log --all --decorate --oneline --graph
+[init]
+defaultBranch = main
